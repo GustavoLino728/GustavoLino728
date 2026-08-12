@@ -4,7 +4,7 @@ Software Developer | System Development Student at Cesar School | Recife, Brazil
 
 Welcome to my profile, i'm passionate about backend development, my expertise lies in crafting efficient and robust RESTful API's. Building projects using problem solving skills and using my hard skills to contribute and create. Currently i'm learning more about Flask and the ways to model a database, following the best practice.
 
-[![Gustavo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolino728&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gustavolino728)](https://github.com/stats-organization/github-stats-extended)
 
 # Langs, Frameworks and Tech's
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
